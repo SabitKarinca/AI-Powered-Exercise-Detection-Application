@@ -1,6 +1,4 @@
-Anladım, kanka. İşte **sadece README içeriği** İngilizce ve bash içinde, açıklama eklemeden:
 
-````bash
 # AI-Powered Exercise Recognition Application
 
 ## Features
