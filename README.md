@@ -16,7 +16,7 @@ Anladım, kanka. İşte **sadece README içeriği** İngilizce ve bash içinde, 
 ## Installation
 1. Clone the repository:  
 ```bash
-git clone [<repository-url>](https://github.com/SabitKarinca/AI-Powered-Exercise-Detection-Application)
+git clone https://github.com/SabitKarinca/AI-Powered-Exercise-Detection-Application
 ````
 
 2. Navigate to the project folder:
