@@ -124,7 +124,3 @@ Contributions and suggestions are welcome. Please submit a pull request or open 
 ## License
 
 This project is released under the MIT License.
-
-
-İstersen bundan sonra **dosya ve klasör yapısı önerisini** de aynı profesyonel düzende hazırlayıp verebilirim. Yapayım mı kanka?
-```
