@@ -1,8 +1,7 @@
-# AI-Powered Exercise Recognition Application
+Anladım, kanka. İşte **sadece README içeriği** İngilizce ve bash içinde, açıklama eklemeden:
 
-## Description
-This is a mobile application that uses Artificial Intelligence to detect and evaluate exercise movements in real time.  
-Built with **Flutter** for the user interface and **TensorFlow Lite** for on-device AI inference, the app can classify exercises such as squats and planks, providing feedback on correctness and confidence scores.
+````bash
+# AI-Powered Exercise Recognition Application
 
 ## Features
 - Real-time exercise recognition  
@@ -17,4 +16,42 @@ Built with **Flutter** for the user interface and **TensorFlow Lite** for on-dev
 ## Installation
 1. Clone the repository:  
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/SabitKarinca/AI-Powered-Exercise-Detection-Application)
+````
+
+2. Navigate to the project folder:
+
+```bash
+cd your_project_folder
+```
+
+3. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+4. Run the app:
+
+```bash
+flutter run
+```
+
+## Model
+
+* TensorFlow Lite `.tflite` model is stored in `assets/models/`
+* Labels file: `assets/models/labels.txt`
+* Trained using a custom dataset on Google Colab
+* Older models with version conflicts are included for reference
+
+## Notes
+
+* Tested on Android devices
+* Ensure Flutter and TFLite versions are compatible with the model
+* Confidence threshold is set at **30%** for valid predictions
+
+## Keywords
+
+AI, Fitness, Exercise Detection, Flutter, TensorFlow Lite, Mobile Application
+
+
