@@ -105,7 +105,7 @@ Old or non-functional model attempts can be found under:
 
 ## Screenshots
 
-Below is a placeholder section for application screenshots. Replace the image paths with your own.
+
 
 Home Screen | Result Screen
 
